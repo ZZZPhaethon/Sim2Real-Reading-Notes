@@ -1,0 +1,7 @@
+numpy
+matplotlib
+trimesh
+scipy
+scikit-image
+jupyter
+nbconvert

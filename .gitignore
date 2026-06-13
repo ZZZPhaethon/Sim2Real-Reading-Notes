@@ -1,0 +1,37 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments and caches
+.venv/
+.venv-*/
+.conda/
+.conda-*/
+.cache/
+.torch_cache/
+hf_cache/
+
+# Models, generated outputs, and logs
+checkpoints/
+pretrain/
+weights/
+outputs/
+logs/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Local upstream repositories and datasets
+code/
+datasets/
+data/
+raw/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*~
